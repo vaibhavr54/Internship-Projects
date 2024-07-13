@@ -19,7 +19,7 @@ The Movie Rating Prediction with Python project aims to analyze historical movie
 
 ```
 
-### Project 3: Iris Flower classification Machine Learning Model
+### Project 3: Iris Flower Classification Machine Learning Model
 
 ```
 ## Project Overview
