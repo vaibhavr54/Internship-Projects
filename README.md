@@ -36,3 +36,12 @@ This project involves developing a machine learning model to classify Iris flowe
 A machine learning model to predict future sales of a product by analyzing various factors such as advertising expenditure, target audience segmentation, and advertising platform selection. The goal is to help businesses optimize their advertising strategies and maximize their sales potential. By preprocessing and normalizing the data, handling class imbalances, and training the model with robust algorithms, we can make accurate and actionable sales forecasts. This project demonstrates the practical application of data science techniques to drive business growth and decision-making.
 
 ```
+
+### Project 5: Credit Card Fraud Detection Machine Learning Model
+
+```
+
+## Project Overview
+In this project,I developed a machine learning model to detect fraudulent credit card transactions. We preprocessed and normalized the transaction data, addressed class imbalance using SMOTE, and split the data into training and testing sets. A Random Forest classifier was trained to classify transactions as fraudulent or genuine, and the model's performance was evaluated using metrics such as accuracy, precision, recall, and F1-score. Visualizations like the confusion matrix were used to assess and understand the model's effectiveness.
+
+```
