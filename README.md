@@ -1,4 +1,4 @@
-# CODESOFT
+# CODSOFT
 
 I've worked with following projects during my internship period:
 
