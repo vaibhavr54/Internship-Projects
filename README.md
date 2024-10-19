@@ -1,6 +1,6 @@
 # CODSOFT
 
-# I've worked with following projects during my internship period:
+# I've worked with following projects during my Internship period:
 
 ### Project 1: Titanic Survival Prediction Model
 
